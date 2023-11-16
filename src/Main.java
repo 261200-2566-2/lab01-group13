@@ -20,6 +20,7 @@ public class Main {
     public  static  boolean checkFirstNumber(int x){
         if (x >= 0){
             return true;
-        }else {return false; }
+        }
+        return false;
     }
 }
